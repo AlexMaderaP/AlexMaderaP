@@ -12,4 +12,4 @@ I'm a Developer from México. I have a passion for **Web development** and video
 - Email: alejandro.maderap@gmail.com
 - LinkedIn: [AlexMaderaP](https://www.linkedin.com/in/alexmaderap/)
 
-### You can also see more of my projects and certifications in my [FreeCodeCamp Profile](https://www.freecodecamp.org/fcc090a2670-9723-49fc-8d3e-4185fcc7493d)
+You can also see more of my projects and certifications in my [FreeCodeCamp Profile](https://www.freecodecamp.org/fcc090a2670-9723-49fc-8d3e-4185fcc7493d)
