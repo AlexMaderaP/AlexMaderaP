@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋 I'm Alex 
 
-<!--
-**AlexMaderaP/AlexMaderaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Developer from México. I have a passion for **Web development** and videogames :video_game:	
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Frameworks/Libraries: NodeJS, React
+- Languages: Javascript 
+- Tools: VS code, Git
+- Database management: MongoDB, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: alejandro.maderap@gmail.com
+- LinkedIn: [AlexMaderaP](https://www.linkedin.com/in/alexmaderap/)
+
+### You can also see more of my projects and certifications in my [FreeCodeCamp Profile](https://www.freecodecamp.org/fcc090a2670-9723-49fc-8d3e-4185fcc7493d)
